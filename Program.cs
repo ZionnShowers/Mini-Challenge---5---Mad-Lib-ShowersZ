@@ -2,8 +2,15 @@
 //9-10-2026
 //Mini Challenge # 5 - Mad Lib
 //I made the user type in 10 different words and with the program saving them as strings. Afterwards, the program uses those strings in an existing Mad Lib to fill in the gaps and make a (somewhat) coherent story.
-//Peer Review:
-//Review:
+/*
+Reviewer: Callen Thomason
+Review:
+Code works as intended. I really like the variable names. word1 through word10 ensures you have all the words. 
+If I where to change anything I would change the WriteLine to Write. So the answers could be next to the questions. 
+Interpolation looks great. 
+Flow chart looks great. I really like the inclusion of a welcome. The user knows what they are getting into. 
+*/
+
 
 Console.Clear();
 
